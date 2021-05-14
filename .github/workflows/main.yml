@@ -1,4 +1,4 @@
-name: 'Plz2RunPlz'
+name: 'Plz2RunPlzPLZ'
 
 env:
   GODOT_VERSION: 3.2.2 # Remember to manually set image to this version below.
