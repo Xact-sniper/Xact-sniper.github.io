@@ -1,4 +1,4 @@
-name: 'Publish to GitHub Pages'
+name: 'Plz2RunPlz'
 
 env:
   GODOT_VERSION: 3.2.2 # Remember to manually set image to this version below.
